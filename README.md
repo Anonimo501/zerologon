@@ -31,3 +31,7 @@ chmod +x zerologon.sh
 
 # Referencias
 
+SecuraBV        https://github.com/SecuraBV/CVE-2020-1472
+pypa            https://github.com/pypa/virtualenv
+SecureAuthCorp  https://github.com/SecureAuthCorp/impacket
+dirkjanm        https://github.com/dirkjanm/CVE-2020-1472
