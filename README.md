@@ -20,13 +20,13 @@ Version 1
 
 ## Uso
 
-git clone https://github.com/Anonimo501/SambaRelay_V2.git
+git clone https://github.com/Anonimo501/zerologon.git
 
-cd SambaRelay_V2/
+cd zerologon/
 
-chmod +x SMB_Relay_v2.sh
+chmod +x zerologon.sh
 
-./SMB_Relay.sh
+./zerologon.sh
 
 
 # Referencias
