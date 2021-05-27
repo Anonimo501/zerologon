@@ -16,7 +16,7 @@ El script se ejecuto sobre ParrotOS 4.11
 ## Version del Script
 Version 1
 
-IMG
+![Captura](https://user-images.githubusercontent.com/67207446/119861302-d7f25e80-bedc-11eb-8d1c-58185ab7f283.PNG)
 
 ## Uso
 
