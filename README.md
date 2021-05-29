@@ -8,10 +8,10 @@ Grupo en Telegram https://t.me/Pen7esting
 
 El script de zerologon nos automatiza por completo el ataque logrando ahorrar tiempo en las auditorias de pentestg, se debe tener encuenta que para el uso del script se debe tener 1. permiso de la empresa que se esta auditando y 2. un backup de DC/AD ya que el ataque puede probocar daños en el DC.
 
-en la opcion1 descarga el checker, con la opcion2 ejecuta el checker y verifica si el servidor es vulnerable a zerologon, en la opciontres descargamos
+en la opcion1 descarga el checker, con la opcion2 ejecuta el checker y verifica si el servidor es vulnerable a zerologon, en la opcion3 descargamos
 los repositorios necesarios para que en la opcion4 podamos ejecutar ya el ataque y lograr vulnerar el servidor DC el cual si todo ha ido bien hasta ahora nos imprimira 
-en pantalla las hash del DC incluyendo el de los Administradores, copiamos y pegamos en un bloc de notas los hash para posteriormente pasar a la opcion5 y ejecutar un ataque de 
-Pass The Hash y lograr obtener una CMD dentro del servidor Victima.
+en pantalla las hash del DC/AD incluyendo el de los Administradores, copiamos y pegamos en un bloc de notas los hash para posteriormente pasar a la opcion5 y ejecutar un 
+ataque de Pass The Hash y lograr obtener una CMD dentro del servidor Victima.
 
 El script se ejecuto sobre ParrotOS 4.11
 
