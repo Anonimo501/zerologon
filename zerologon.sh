@@ -55,6 +55,8 @@ function opcion3
 	cd exploit
 	git clone https://github.com/dirkjanm/CVE-2020-1472.git
         cd CVE-2020-1472
+	cd ..
+	cd ..
 	read -rsp $'Press enter to continue...\n'
 }
 
