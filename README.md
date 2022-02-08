@@ -12,6 +12,10 @@ en la opcion1 descarga el checker, con la opcion2 ejecuta el checker y verifica 
 los repositorios necesarios para que en la opcion4 podamos ejecutar ya el ataque y lograr vulnerar el servidor DC el cual si todo ha ido bien hasta ahora nos imprimira 
 en pantalla los hash del DC/AD incluyendo el de los Administradores.
 
+# Ver tambien zerologon-restore
+
+tener encuenta que ejecutar el script es algo peligroso ya que causa daños en el servidor por que elimina o cambia la contraseña, para corregir este error se ha creado el siguiente script para ejecutar luego del ataque y reparar los daños: https://github.com/Anonimo501/zerologon-restore 
+
 El script se ejecuto sobre ParrotOS 4.11
 
 ## Version del Script
