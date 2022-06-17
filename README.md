@@ -6,7 +6,7 @@ Grupo en Telegram https://t.me/Pen7esting
 
 ## zerologon
 
-El script de zerologon nos automatiza por completo el ataque logrando ahorrar tiempo en las auditorias de pentestg, se debe tener encuenta que para el uso del script se debe tener un permiso de la empresa que se esta auditando y dos un backup de DC/AD ya que el ataque puede probocar daños en el DC.
+El script de zerologon nos automatiza por completo el ataque logrando ahorrar tiempo en las auditorias de pentestg, se debe tener encuenta que para el uso del script se debe tener un permiso de la empresa que se esta auditando y dos un backup de DC/AD ya que el ataque puede provocar daños en el DC.
 
 en la opcion1 descarga el checker, con la opcion2 ejecuta el checker y verifica si el servidor es vulnerable a zerologon, en la opcion3 descargamos
 los repositorios necesarios para que en la opcion4 podamos ejecutar ya el ataque y lograr vulnerar el servidor DC el cual si todo ha ido bien hasta ahora nos imprimira 
